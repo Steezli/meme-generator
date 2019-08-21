@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowcaseMeme component renders ShowcaseMeme 1`] = `
+<Fragment>
+  <p>
+    hello
+  </p>
+  <img />
+  <p>
+    feet
+  </p>
+</Fragment>
+`;

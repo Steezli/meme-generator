@@ -19,7 +19,6 @@ MemeInput.propTypes = {
   imageSrc: PropTypes.string.isRequired,
   foot: PropTypes.string.isRequired,
   handleChange: PropTypes.func.isRequired,
-  handleSubmit: PropTypes.func.isRequired
 };
 
 export default MemeInput;
