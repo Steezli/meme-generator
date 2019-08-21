@@ -20,7 +20,7 @@ export default class App extends PureComponent {
         <MemeInput head={head} imageSrc={imageSrc} foot={foot} handleChange={this.handleChange} />
           <ShowcaseMeme head={head} imageSrc={imageSrc} foot={foot}/>
       </>
-    )
+    );
   }
 }
 

@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 
-function MemeInput({ head, imageSrc, foot, handleChange, handleSubmit }) {
+function MemeInput({ head, imageSrc, foot, handleChange }) {
   return (
     <>
       <form>
