@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MemeInput component renders MemeInput 1`] = `
+<Fragment>
+  <form>
+    <input
+      name="head"
+      onChange={[Function]}
+      placeholder="What should this meme read at the top?"
+      value="hello"
+    />
+    <input
+      name="imageSrc"
+      onChange={[Function]}
+      placeholder="What image would you like to use?"
+    />
+    <input
+      name="foot"
+      onChange={[Function]}
+      placeholder="What should this meme read at the top?"
+      value="feet"
+    />
+  </form>
+</Fragment>
+`;
